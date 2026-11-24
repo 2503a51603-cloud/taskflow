@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow - Student Task & Productivity Planner",
+  "description": "A lightweight full-stack student task and productivity planner built with React, Express, Chart.js, and MongoDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

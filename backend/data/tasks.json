@@ -1,0 +1,105 @@
+[
+  {
+    "_id": "6b053bf9f5c6dbea522cc7d9",
+    "title": "Submit DBMS Normalization Lab Report",
+    "description": "Complete ER-to-relational schema conversion and BCNF proofs for Experiment 5 in SQL Lab manual.",
+    "dueDate": "2026-11-24T00:00:00.000Z",
+    "dueTime": "17:00",
+    "priority": "High",
+    "category": "Coursework",
+    "tags": [
+      "DBMS",
+      "Lab",
+      "Submission"
+    ],
+    "status": "In Progress",
+    "progress": 70,
+    "createdAt": "2026-11-24T07:25:45.460Z",
+    "updatedAt": "2026-11-24T07:25:45.460Z"
+  },
+  {
+    "_id": "6b053bf9f5c6dbea522cc7da",
+    "title": "OS CPU Scheduling Simulator Code",
+    "description": "Implement FCFS, SJF, and Round Robin scheduling algorithms in C++ and record average turnaround times.",
+    "dueDate": "2026-11-25T00:00:00.000Z",
+    "dueTime": "23:59",
+    "priority": "High",
+    "category": "Assignments",
+    "tags": [
+      "Operating Systems",
+      "C++"
+    ],
+    "status": "In Progress",
+    "progress": 45,
+    "createdAt": "2026-11-24T07:25:45.476Z",
+    "updatedAt": "2026-11-24T07:25:45.476Z"
+  },
+  {
+    "_id": "6b053bf9f5c6dbea522cc7db",
+    "title": "DSA Graph Traversal Practice Sheet",
+    "description": "Solve BFS, DFS, Dijkstra, and Topological Sort problems for internal assessment revision.",
+    "dueDate": "2026-11-27T00:00:00.000Z",
+    "dueTime": "20:00",
+    "priority": "Medium",
+    "category": "Exam Prep",
+    "tags": [
+      "DSA",
+      "Algorithms"
+    ],
+    "status": "Pending",
+    "progress": 0,
+    "createdAt": "2026-11-24T07:25:45.499Z",
+    "updatedAt": "2026-11-24T07:25:45.499Z"
+  },
+  {
+    "_id": "6b053bf9f5c6dbea522cc7dc",
+    "title": "Computer Networks TCP/UDP Wireshark Lab",
+    "description": "Capture packet traces for HTTP and DNS queries and attach annotated screenshots to lab record.",
+    "dueDate": "2026-11-23T00:00:00.000Z",
+    "dueTime": "14:00",
+    "priority": "High",
+    "category": "Coursework",
+    "tags": [
+      "Networks",
+      "Lab"
+    ],
+    "status": "In Progress",
+    "progress": 60,
+    "createdAt": "2026-11-24T07:25:45.514Z",
+    "updatedAt": "2026-11-24T07:25:45.514Z"
+  },
+  {
+    "_id": "6b053bf9f5c6dbea522cc7dd",
+    "title": "Minor Project Mid-Sem Slides",
+    "description": "Prepare architecture diagram, ER model, and API endpoint documentation for faculty review.",
+    "dueDate": "2026-11-26T00:00:00.000Z",
+    "dueTime": "11:30",
+    "priority": "Medium",
+    "category": "Projects",
+    "tags": [
+      "BTech Project",
+      "Presentation"
+    ],
+    "status": "Pending",
+    "progress": 0,
+    "createdAt": "2026-11-24T07:25:45.562Z",
+    "updatedAt": "2026-11-24T07:25:45.562Z"
+  },
+  {
+    "_id": "6b053bf9f5c6dbea522cc7de",
+    "title": "Software Engineering SRS Document",
+    "description": "Finalize functional requirements, use-case diagrams, and test cases per IEEE 830 template.",
+    "dueDate": "2026-11-22T00:00:00.000Z",
+    "dueTime": "18:00",
+    "priority": "Low",
+    "category": "Assignments",
+    "tags": [
+      "SE",
+      "Documentation"
+    ],
+    "status": "Completed",
+    "progress": 100,
+    "createdAt": "2026-11-24T07:25:45.573Z",
+    "updatedAt": "2026-11-24T07:25:45.573Z"
+  }
+]
